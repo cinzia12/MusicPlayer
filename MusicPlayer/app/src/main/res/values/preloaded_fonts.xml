@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="preloaded_fonts">preloaded_fonts
+        <item>@font/cousine_bold</item>
+    </string-array>
+</resources>
